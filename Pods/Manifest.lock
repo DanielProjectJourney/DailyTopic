@@ -1,0 +1,31 @@
+PODS:
+  - Canvas (0.1.2)
+  - Firebase (2.5.1)
+  - LiquidFloatingActionButton (0.1.1)
+  - NVActivityIndicatorView (2.4)
+
+DEPENDENCIES:
+  - Canvas
+  - Firebase (>= 2.5.1)
+  - LiquidFloatingActionButton (from `https://github.com/yoavlt/LiquidFloatingActionButton`, branch `swift-2.0`)
+  - NVActivityIndicatorView
+
+EXTERNAL SOURCES:
+  LiquidFloatingActionButton:
+    :branch: swift-2.0
+    :git: https://github.com/yoavlt/LiquidFloatingActionButton
+
+CHECKOUT OPTIONS:
+  LiquidFloatingActionButton:
+    :commit: 25de77f23df84e0a0981193abecced8afc2ed9c7
+    :git: https://github.com/yoavlt/LiquidFloatingActionButton
+
+SPEC CHECKSUMS:
+  Canvas: eb861e3b555d032648146c8ffda1a5dea40059ca
+  Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
+  LiquidFloatingActionButton: dcdae1e59eb07eccbf60c027001a4d6731c345c9
+  NVActivityIndicatorView: 275a3248d752b5eb1163b33aee664d7e3b43c101
+
+PODFILE CHECKSUM: 714deea206baeefcfbf3418c885e4111e55049a6
+
+COCOAPODS: 1.0.1

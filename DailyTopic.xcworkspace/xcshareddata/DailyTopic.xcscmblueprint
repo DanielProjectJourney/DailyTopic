@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EFD009DB5EDA46AE1BF1DF5188D997BC156BE39A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EFD009DB5EDA46AE1BF1DF5188D997BC156BE39A" : 0,
+    "84AEFC7EE1DBA4134E7C025D125C0F065B935F2F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D0057733-401C-4954-BD5D-0DBDF121F51D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EFD009DB5EDA46AE1BF1DF5188D997BC156BE39A" : "DailyTopic\/",
+    "84AEFC7EE1DBA4134E7C025D125C0F065B935F2F" : "DailyTopic\/NVActivityIndicatorView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DailyTopic",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DailyTopic.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/IOSJourney\/NVActivityIndicatorView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "84AEFC7EE1DBA4134E7C025D125C0F065B935F2F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/IOSJourney\/DailyTopic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EFD009DB5EDA46AE1BF1DF5188D997BC156BE39A"
+    }
+  ]
+}
